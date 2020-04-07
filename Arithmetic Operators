@@ -1,0 +1,15 @@
+# Write an expression that calculates the average of 23, 32 and 64
+# Place the expression in this print statement
+a=23+32+64
+b=a/3
+print(b)
+
+# Fill this in with an expression that calculates how many tiles are needed.
+a= 9*7
+b= 5*7
+print(a+b)
+
+# Fill this in with an expression that calculates how many tiles will be left over.
+c=a+b
+d=17*6
+print(d-c)
